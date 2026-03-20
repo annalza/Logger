@@ -1,19 +1,10 @@
-# Compiled class files
-*.class
-
-# Logs
-*.log
-
-# IntelliJ IDEA
+# IntelliJ
 .idea/
 *.iml
-*.iws
-out/
 
-# Maven / Gradle build folders
+# Logs
+logs/*.log
+
+# Build output
 target/
 build/
-
-# OS files
-.DS_Store
-Thumbs.db
