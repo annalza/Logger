@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Maven / Gradle build folders
+target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
